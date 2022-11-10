@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-   <head>
-      <title>Adding two numbers using JavaScript in HTML</title>
+   <head> 
+      <title>Adding  and subtraction, multiplication two numbers using JavaScript in HTML</title>
       <script>
          var num1 = 10;
          var num2 = 40;
